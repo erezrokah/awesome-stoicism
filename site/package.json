@@ -8,7 +8,7 @@
     "build": "next build && next export",
     "serve": "next start",
     "server": "serve out",
-    "deploy": "./node_modules/.bin/netlify deploy --prod --dir out",
+    "deploy": "netlify deploy --prod --dir out",
     "prettier": "prettier './**/*.{js,jsx,ts,tsx,json,md,mdx}' --write"
   },
   "dependencies": {
