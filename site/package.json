@@ -37,7 +37,6 @@
     "slugify": "^1.4.0"
   },
   "devDependencies": {
-    "netlify-cli": "^2.41.0",
     "postcss-nested": "^4.2.1",
     "prettier": "^2.0.5",
     "rehype": "^10.0.0",
